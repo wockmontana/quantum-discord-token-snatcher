@@ -7,6 +7,11 @@
 4. Enjoy!
 > This site is for educational purposes only! Copyright Disclaimer under section 107 of the Copyright Act 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research.
 
+## Features
+ [❌] No local caching.
+ [✔️] Transfers via Discord webhook.
+ [❌] No external Python modules required.
+
 ## [Example]
 
 ![This is an image](https://i.imgur.com/FI8bQpA.png)
