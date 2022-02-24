@@ -1,4 +1,6 @@
 ## [Quantum Discord Token Snatcher V1.0]
+![This is an image](https://i.imgur.com/9pYvVrv.png)
+
 
 ### 📝・Quantum Discord Token Snatcher V1.0
 1. Install [python](https://www.python.org/)
